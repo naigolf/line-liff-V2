@@ -1,1 +1,1 @@
-# line-liff-V2-script
+# line-liff-V2
